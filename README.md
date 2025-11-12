@@ -3,6 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![GitHub release](https://img.shields.io/github/v/release/LiteLoaderQQNT/LiteLoaderQQNT?logo=github)](https://github.com/LiteLoaderQQNT/LiteLoaderQQNT/releases)
 [![Follow on Telegram](https://img.shields.io/badge/Follow-Telegram-blue?logo=telegram)](https://t.me/LiteLoaderQQNT_Channel)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FGuaiZai233%2FLiteLoaderQQNT.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FGuaiZai233%2FLiteLoaderQQNT?ref=badge_shield)
 
 > 轻量 · 简洁 · 开源 · 福瑞
 
@@ -93,3 +94,7 @@ LiteLoaderQQNT 是 QQNT 的插件加载器，一般在 QQNT 的环境内简称�
 ## 许可证
 
 LiteLoaderQQNT 采用 [MIT 许可证](./LICENSE) 进行开源。
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FGuaiZai233%2FLiteLoaderQQNT.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FGuaiZai233%2FLiteLoaderQQNT?ref=badge_large)
